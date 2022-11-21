@@ -1,5 +1,9 @@
 By using selenium we can get the images and text from the website
 Here we the selenium tool for scrapping the data.
+There we use the following componetns
+1) script
+2) web driver
+3) website
 selenium IDE
 By using python script and selenium drive we can get the images and text
 we can install selenium using pip install selenium
@@ -24,4 +28,5 @@ h1 = driver.find_element(By.XPATH, '//h1')
 h1 = driver.find_element(By.XPATH, '/html/body/h1')
 h1 = driver.find_element(By.ID, 'greatID')
 we can find the text or image using locators
-
+==============================================================================
+we can use the beautiful soap
